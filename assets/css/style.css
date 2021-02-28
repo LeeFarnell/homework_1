@@ -41,23 +41,20 @@ body {
     margin-left: 25px;
 }
 
-/* Moved this up as hero tags come before a and p tags */
-/* Renamed class from 'hero' to 'photo' so it's easier to recognise */
+/* M moved this up as a tags are a part of the header */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Moved this up as 'hero' tags come before a and p tags */
+/* Renamed class from 'hero' to 'photo' so it's easier to recognize */
 .photo {
     height: 100%;
     width: 100%;
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 /* Moved this up as content tags come before a and p tags */
@@ -96,8 +93,12 @@ p {
     font-size: 36px;
 }
 
-/* Moved this section down the page as it falls underneath Main tags in index.html */
+/* Moved this down as the p tag comes after the section classes and h2 */
+p {
+    font-size: 16px;
+}
 
+/* Moved this section down the page as it falls underneath Main tags in index.html */
 .benefits {
     margin-right: 20px;
     padding: 20px;
