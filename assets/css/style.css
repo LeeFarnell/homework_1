@@ -60,7 +60,7 @@ p {
     font-size: 16px;
 }
 
-/* Moved this up as content tags come before float sections */
+/* Moved this up as content tags come before a and p tags */
 .content {
     width: 75%;
     display: inline-block;
@@ -88,8 +88,17 @@ p {
     background-color: #2589bd;
 }
 
-/* Changed to .benefit-class and removed benefit-brant/cost as all styled the same. index.html changed to reflect this */
-.benefit-class {
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
