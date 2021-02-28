@@ -44,7 +44,7 @@ body {
 /* Moved this up as hero tags come before a and p tags */
 /* Renamed class from 'hero' to 'photo' so it's easier to recognise */
 .photo {
-    height: 800px;
+    height: 100%;
     width: 100%;
     margin-bottom: 25px;
     background-size: cover;
