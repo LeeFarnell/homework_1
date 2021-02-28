@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* The div on the .header has been changed to .nav, CSS changes made to reflect this */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
