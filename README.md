@@ -1,6 +1,6 @@
 # Homework 01 - HTML, CSS, and Git: Code Refactor
 
-For this weeks homework, we needed to refactor a website to ensure it was accessibility friendly and optimized for search engines. 
+For this weeks homework, we needed to refactor a website to ensure it was accessibility friendly and optimized for search engines.
 
 Following the user story, I made a series of changes to the website in order to meet the necessary criteria. These changes included:
 
@@ -12,9 +12,12 @@ Following the user story, I made a series of changes to the website in order to 
 - Spacing and tabbing the necessary HTML tags for a cleaner code.
 - Ensuring all the images were given ALT attributes.
 - Changing the order of the CSS to ensure it flows the same as the HTML.
-- Leaving comments on the stylesheet. 
+- Leaving comments on the stylesheet.
 
 ## Screenshots
+
+The first screenshot is the refactored site in comparison to the mock up we were provided. The remaining screenshots are all of the refactored site.
+<img src ="./ReadMeScreenshots/My Site vs Mock Up.png" />
 <img src ="./ReadMeScreenshots/Horiseon Screenshot 1.png" />
 <img src ="./ReadMeScreenshots/Horiseon Screenshot 2.png" />
 <img src ="./ReadMeScreenshots/Horiseon Screenshot 3.png" />
@@ -23,4 +26,5 @@ Following the user story, I made a series of changes to the website in order to 
 <img sec ="./ReadMeScreenshots/Horiseon Screenshot 6.png" />
 
 ## Link to the deployed application
+
 https://leefarnell.github.io/homework_1/
