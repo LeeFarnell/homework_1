@@ -8,6 +8,7 @@ body {
   background-color: #d9dcd6;
 }
 
+/* This is the styling of the header section */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -43,13 +44,12 @@ body {
   margin-left: 25px;
 }
 
-/* M moved this up as a tags are a part of the header */
 a {
   color: #ffffff;
   text-decoration: none;
 }
 
-/* Moved this up as 'hero' tags come before a and p tags */
+/* This is the styling for the main image */
 /* Renamed class from 'hero' to 'photo' so it's easier to recognize */
 .photo {
   height: 100%;
@@ -59,7 +59,7 @@ a {
   background-position: center;
 }
 
-/* Moved this up as content tags come before a and p tags */
+/* This is the styling for the main section of the site */
 .content {
   width: 75%;
   display: inline-block;
@@ -76,7 +76,7 @@ a {
   margin-left: 25px;
 }
 
-/* Changed the CSS for the sections in the Main tags as the styling was all the same. */
+/* Changed the CSS Class name for the sections in the Main tags as the styling was identical. */
 .section-class {
   margin-bottom: 20px;
   padding: 50px;
@@ -95,12 +95,11 @@ a {
   font-size: 36px;
 }
 
-/* Moved this down as the p tag comes after the section classes and h2 */
 p {
   font-size: 16px;
 }
 
-/* Moved this section down the page as it falls underneath Main tags in index.html */
+/* This is the styling for the side bar Benefits section */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -112,7 +111,7 @@ p {
   background-color: #2589bd;
 }
 
-/* Changed all .benefit sections to one benefit-class as stylings are all the same */
+/* Changed all .benefit sections to one benefit-class as stylings were identical */
 .benefit-class {
   margin-bottom: 32px;
   color: #ffffff;
@@ -129,6 +128,7 @@ p {
   max-width: 150px;
 }
 
+/* This is the styling for the footer */
 .footer {
   padding: 30px;
   clear: both;
