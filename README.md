@@ -14,6 +14,10 @@ Following the user story, I made a series of changes to the website in order to 
 - Changing the order of the CSS to ensure it flows the same as the HTML.
 - Leaving comments on the stylesheet.
 
+## Link to the deployed application
+
+https://leefarnell.github.io/homework_1/
+
 ## Screenshots
 
 The first screenshot is the refactored site in comparison to the mock up we were provided. The remaining screenshots are all of the refactored site.
@@ -24,7 +28,3 @@ The first screenshot is the refactored site in comparison to the mock up we were
 <img src ="./ReadMeScreenshots/Horiseon Screenshot 4.png" />
 <img src ="./ReadMeScreenshots/Horiseon Screenshot 5.png" />
 <img sec ="./ReadMeScreenshots/Horiseon Screenshot 6.png" />
-
-## Link to the deployed application
-
-https://leefarnell.github.io/homework_1/
