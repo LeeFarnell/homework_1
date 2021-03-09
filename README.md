@@ -16,7 +16,7 @@ Following the user story, I made a series of changes to the website in order to 
 
 ## Link to the deployed application
 
-https://leefarnell.github.io/homework_1/
+https://leefarnell.github.io/horiseon_website_refactor/
 
 ## Screenshots
 
